@@ -10,7 +10,7 @@
 #'
 #' @section Data formats:
 #'
-#' Each type of data is provided in two formats. The first format is an S3 object class used by the R pacakge \code{MSomicsQC}. Data available as S3 objects 'pepData', 'proData', 'metabData', and 'lipidData' are created by \code{\link[MSomicsQC]{as.pepData}}, \code{\link[MSomicsQC]{as.proData}}, \code{\link[MSomicsQC]{as.metabData}}, or \code{\link[MSomicsQC]{as.lipidData}}, respectively. The second format corresponds to the individual components of the S3 object classes, \code{e_data} (required), \code{f_data} (required), and \code{e_meta} (optional). See \code{MSomicsQC} for more details.
+#' Each type of data is provided in two formats. The first format is an S3 object class used by the R package \code{MSomicsQC}. Data available as S3 objects 'pepData', 'proData', 'metabData', and 'lipidData' are created by \code{\link[MSomicsQC]{as.pepData}}, \code{\link[MSomicsQC]{as.proData}}, \code{\link[MSomicsQC]{as.metabData}}, or \code{\link[MSomicsQC]{as.lipidData}}, respectively. The second format corresponds to the individual components of the S3 object classes, \code{e_data} (required), \code{f_data} (required), and \code{e_meta} (optional). See \code{MSomicsQC} for more details.
 #'
 #'
 #' @section Support:
